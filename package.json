@@ -1,0 +1,27 @@
+{
+  "name": "cognito-aws-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda to send email to Sinopia admin listserve",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LD4P/aws-cognito-lambda.git"
+  },
+  "keywords": [
+    "AWS",
+    "cognito",
+    "lambda"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LD4P/aws-cognito-lambda/issues"
+  },
+  "homepage": "https://github.com/LD4P/aws-cognito-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
